@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 août 2019, 02:55:22
+    Author     : HP
+*/
+
+li a {
+color: white;
+}
+
+li a:hover {
+color: floralwhite;
+}
+
+div.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
